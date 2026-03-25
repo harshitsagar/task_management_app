@@ -83,7 +83,7 @@ A Flutter application developed as part of the Flodo AI Take-Home Assignment. Th
 
 1. **Clone repository**
    ```bash
-   git clone https://github.com/harshitsagar/yoga-home-assignment.git
+   git clone https://github.com/harshitsagar/task_management_app.git
 
 2. **Install dependencies**
    ```bash
